@@ -1,4 +1,4 @@
-package com.sample.java;
+package com.info;
 
 
 import static org.junit.Assert.assertTrue;
@@ -8,7 +8,7 @@ import org.junit.Test;
 /**
  * Unit test for simple App.
  */
-public class SampleTest
+public class TestInit
 {
     /**
      * Rigorous Test :-)
@@ -19,4 +19,3 @@ public class SampleTest
         assertTrue( true );
     }
 }
-
